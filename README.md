@@ -15,3 +15,6 @@ Inspired by the Dark Forest Theory:
 ---
 **Status**: INVISIBLE
 **Mission**: Sub-logical Infiltration
+
+## 🕵️‍♂️ Stealth Browser Integration (Pending)
+Integrating **stealth-browser-mcp** capabilities to ensure the Shadow can navigate the web without being detected by headless-browser detection scripts or anti-bot measures.
